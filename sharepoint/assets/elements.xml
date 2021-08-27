@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="HideIcons"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="58c943c5-2c08-414c-800f-bda606ca5ab9"
+        ClientSideComponentProperties="{&quot;CSSFileLocation&quot;:&quot;/SiteAssets/CSS/HideIcons.css&quot;}">
+    </CustomAction>
+</Elements>
